@@ -1,0 +1,17 @@
+package com.WS_Part;
+
+import com.WS_EngItem.Utils;
+
+public class CreatePart {
+
+	public static void main(String[] args) {
+		try {
+			PartManager cam = new PartManager(Utils.USER, Utils.CONTEXT, Utils.inputfile, Utils.logFile);
+			cam.CreatePart();
+		} catch (Exception e) {		
+			e.printStackTrace();
+		}
+
+	}
+
+}
