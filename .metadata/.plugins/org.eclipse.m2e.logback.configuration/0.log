@@ -5565,3 +5565,134 @@ org.eclipse.core.runtime.CoreException: Launch configuration CreateRouting refer
 2022-02-01 10:51:26,179 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
 2022-02-01 10:51:26,181 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-02-01 10:51:26,182 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 10:53:40,109 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-02-01 10:53:42,833 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 10:53:42,840 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-01 10:53:42,847 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 10:53:42,848 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 10:53:42,914 [Worker-9: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier  to /WS_Toolbox/target/classes
+2022-02-01 10:53:42,923 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 10:53:42,924 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-01 10:53:42,926 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 10:53:42,927 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 10:53:42,981 [Worker-9: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier  to /WS_Toolbox/target/classes
+2022-02-01 10:53:42,988 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 10:53:42,991 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-01 10:53:42,995 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 10:53:42,995 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 10:53:43,057 [Worker-9: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier  to /WS_Toolbox/target/classes
+2022-02-01 10:53:43,063 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 10:53:43,065 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-01 10:53:43,066 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 10:53:43,067 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 10:53:43,119 [Worker-9: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier  to /WS_Toolbox/target/classes
+2022-02-01 10:53:43,124 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 10:53:43,126 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-02-01 10:53:43,130 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 10:53:43,131 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 10:53:43,675 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-01 10:53:43,676 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 10:53:43,678 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-01 10:53:43,678 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 10:53:43,735 [Worker-9: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WebServiceToolbox: com.alstom:WebServiceToolbox:1.0.1 with classifier  to /WebServiceToolbox/target/classes
+2022-02-01 10:53:43,742 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-01 10:53:43,743 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-01 10:53:43,745 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-01 10:53:43,745 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 10:54:10,936 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 10:54:10,944 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-01 10:54:10,948 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 10:54:10,949 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 10:59:45,047 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 10:59:45,049 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-01 10:59:45,051 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 10:59:45,052 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 11:03:23,684 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:03:23,686 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-01 11:03:23,687 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:03:23,688 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 11:04:20,061 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:04:20,063 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-01 11:04:20,064 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:04:20,065 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 11:05:49,407 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:05:49,408 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-01 11:05:49,410 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:05:49,411 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 11:06:28,440 [Worker-20: Launching CreateEngItem] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier null to /WS_Toolbox/target/classes
+2022-02-01 11:06:28,453 [Worker-20: Launching CreateEngItem] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier null to /WS_Toolbox/target/classes
+2022-02-01 11:06:28,466 [Worker-20: Launching CreateEngItem] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier null to /WS_Toolbox/target/classes
+2022-02-01 11:08:58,856 [Worker-15: Launching CreateEngItem] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier null to /WS_Toolbox/target/classes
+2022-02-01 11:08:58,870 [Worker-15: Launching CreateEngItem] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier null to /WS_Toolbox/target/classes
+2022-02-01 11:08:58,884 [Worker-15: Launching CreateEngItem] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier null to /WS_Toolbox/target/classes
+2022-02-01 11:09:56,192 [Worker-26: Launching CreateEngItem] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier null to /WS_Toolbox/target/classes
+2022-02-01 11:09:56,207 [Worker-26: Launching CreateEngItem] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier null to /WS_Toolbox/target/classes
+2022-02-01 11:09:56,225 [Worker-26: Launching CreateEngItem] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier null to /WS_Toolbox/target/classes
+2022-02-01 11:12:29,282 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:12:29,283 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-01 11:12:29,285 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:12:29,286 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 11:12:34,455 [Worker-22: Launching CreateEngItem] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier null to /WS_Toolbox/target/classes
+2022-02-01 11:12:34,467 [Worker-22: Launching CreateEngItem] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier null to /WS_Toolbox/target/classes
+2022-02-01 11:12:34,480 [Worker-22: Launching CreateEngItem] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier null to /WS_Toolbox/target/classes
+2022-02-01 11:13:53,173 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:13:53,175 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-01 11:13:53,181 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:13:53,182 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 11:15:43,210 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:15:43,212 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-01 11:15:43,213 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:15:43,214 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 11:17:08,147 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:17:08,148 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-01 11:17:08,151 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:17:08,151 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 11:17:48,923 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:17:48,925 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-01 11:17:48,926 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:17:48,927 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 11:19:24,764 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:19:24,765 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-01 11:19:24,767 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:19:24,767 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 11:19:57,512 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:19:57,513 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-01 11:19:57,515 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:19:57,516 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 11:20:08,439 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:20:08,441 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-01 11:20:08,442 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:20:08,442 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 11:20:17,008 [Worker-30: Launching CreatePart] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier null to /WS_Toolbox/target/classes
+2022-02-01 11:20:17,020 [Worker-30: Launching CreatePart] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier null to /WS_Toolbox/target/classes
+2022-02-01 11:20:17,032 [Worker-30: Launching CreatePart] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier null to /WS_Toolbox/target/classes
+2022-02-01 11:22:39,197 [Worker-30: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier  to /WS_Toolbox/target/classes
+2022-02-01 11:22:39,203 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:22:39,204 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-01 11:22:39,205 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:22:39,205 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 11:24:55,727 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:24:55,729 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-01 11:24:55,731 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:24:55,732 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 11:25:54,616 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:25:54,617 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-01 11:25:54,618 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:25:54,618 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 11:26:24,251 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:26:24,253 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-01 11:26:24,254 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:26:24,254 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 11:26:31,794 [Worker-30: Launching CreateRoute] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier null to /WS_Toolbox/target/classes
+2022-02-01 11:26:31,805 [Worker-30: Launching CreateRoute] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier null to /WS_Toolbox/target/classes
+2022-02-01 11:26:31,817 [Worker-30: Launching CreateRoute] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier null to /WS_Toolbox/target/classes
+2022-02-01 11:27:07,691 [Worker-31: Launching CreateRoute] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier null to /WS_Toolbox/target/classes
+2022-02-01 11:27:07,703 [Worker-31: Launching CreateRoute] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier null to /WS_Toolbox/target/classes
+2022-02-01 11:27:07,714 [Worker-31: Launching CreateRoute] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier null to /WS_Toolbox/target/classes
+2022-02-01 11:29:29,220 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:29:29,221 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-01 11:29:29,222 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-01 11:29:29,223 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-01 11:29:35,614 [Worker-36: Launching CreateRoute] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier null to /WS_Toolbox/target/classes
+2022-02-01 11:29:35,632 [Worker-36: Launching CreateRoute] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier null to /WS_Toolbox/target/classes
+2022-02-01 11:29:35,646 [Worker-36: Launching CreateRoute] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WS_Toolbox: WS_Toolbox:WS_Toolbox:0.0.1-SNAPSHOT with classifier null to /WS_Toolbox/target/classes
