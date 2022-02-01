@@ -1,0 +1,19 @@
+package com.WebServiceToolBox;
+
+import org.json.simple.JSONObject;
+
+public class Utils {
+
+	public class Response{
+		public int responseCode;
+		public String responseBody;
+		
+		public Response() {}
+		
+		public JSONObject toString() {
+			return String.format("Code : %d ; Body : %s",responseCode, responseBody);
+		}
+	}
+
+	
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;WS_Part/src/main/resources/InputPart&apos; to &apos;InputPart.json&apos;" description="Rename resource &apos;InputPart&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/InputPart" name="InputPart.json" stamp="1642754447686" updateReferences="true"/>
+</session>

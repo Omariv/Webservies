@@ -1,0 +1,32 @@
+import java.io.PrintWriter;
+
+public class genLog {
+	 String date;
+     String VMs;
+     String step;
+     String status;
+     String type;
+     String name;
+     String revision;
+     String errorCode;
+     String errorDetail;
+
+	public genLog(String date, String VMs, String step, String status, String type, String name,String revision, String errorCode, String errorDetail) {
+		 this.date = date;
+	     this.VMs = VMs;
+	     this.step = step;
+	     this.status = status;
+	     this.type = type;
+	     this.name = name;
+	     this.revision = revision;
+	     this.errorCode = errorCode;
+	     this.errorDetail = errorDetail;
+	     
+	     //PrintWriter writer = new PrintWriter("D:\\Health_Analydor\\loadLog.log", UTF-8);
+	     PrintWriter writer = new PrintWriter("D:\\Health_Analydor\\loadLog.log");
+	     writer.println(date+";"+VMs+";"+step+";"+status+";"+type+";"+name+";"+revision+";"+errorCode+";"+errorDetail);
+	     writer.close();     
+	    
+	}
+
+}

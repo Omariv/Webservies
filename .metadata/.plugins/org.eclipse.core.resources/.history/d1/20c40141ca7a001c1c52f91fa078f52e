@@ -1,0 +1,8 @@
+
+public class meinMethod {
+
+	public static void main(String[] args) {
+	genLog cam = new genLog("date", "String VMs", "String step", "String status", "String type", "String name","String revision", "double errorCode", "String errorDetail");	
+
+	}		
+}

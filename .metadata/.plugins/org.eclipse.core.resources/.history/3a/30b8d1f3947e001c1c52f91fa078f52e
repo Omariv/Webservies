@@ -1,0 +1,49 @@
+package com.WebServiceToolBox;
+
+import java.io.BufferedWriter;
+import java.io.FileNotFoundException;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.time.LocalDate;
+import java.time.LocalTime;
+
+
+public class genLog {
+	//String date;
+    String VMs;
+    String step;
+    String status;
+    String type;
+    String name;
+    String revision;
+    String errorCode;
+    String errorDetail;
+   
+    
+    public genLog(String VMs, String step, String status, String type, String name,String revision, String errorCode, String errorDetail) throws FileNotFoundException {
+	     this.VMs = VMs;
+	     this.step = step;
+	     this.status = status;
+	     this.type = type;
+	     this.name = name;
+	     this.revision = revision;
+	     this.errorCode = errorCode;
+	     this.errorDetail = errorDetail;
+	     
+	     LocalDate d =  LocalDate.now();
+	     LocalTime t =  LocalTime.now(); 
+	    // LocalDateTime dt = LocalDateTime.now(); 
+
+	     	     
+	     try(FileWriter fw = new FileWriter("C:\\Asset Migration\\loadLog.log", true);
+	    		 BufferedWriter bw = new BufferedWriter(fw);
+	    		 PrintWriter out = new PrintWriter(fw))
+	    		{
+	    		 out.println(d+" "+t+";"+VMs+";"+step+";"+status+";"+type+";"+name+";"+revision+";"+errorCode+";"+errorDetail);
+	    		 System.out.println(d+" "+t+";"+VMs+";"+step+";"+status+";"+type+";"+name+";"+revision+";"+errorCode+";"+errorDetail);
+	    		}
+	    		catch (IOException e) {	    		 
+	    		}     
+	}
+}

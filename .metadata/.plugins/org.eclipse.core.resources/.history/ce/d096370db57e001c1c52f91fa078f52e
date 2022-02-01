@@ -1,0 +1,21 @@
+package com.WebServiceToolBox;
+
+public class Utils {
+
+	public class Response{
+		public int responseCode;
+		public String responseBody;
+		public String Id;
+		public String Name;
+		public String Status;
+		
+		
+		public Response() {}
+		
+		public String toString() {
+			return String.format("Code : %d ; Id : %s ; Name : %s ; Staus : %s Body : %s",responseCode,Id, Name, Status,  responseBody);
+		}
+	}
+
+	
+}

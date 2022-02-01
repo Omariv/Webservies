@@ -1,0 +1,3 @@
+com\alstom\plm4aproxy\config\ConfigUtils.class
+com\alstom\plm4aproxy\services\DocumentFile.class
+com\alstom\plm4aproxy\services\HealthCheck.class

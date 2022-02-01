@@ -1,0 +1,41 @@
+[
+	{
+		"policy": "Change Action",
+		"description": "Description of Change Action toto",
+		"title": "Title of Change Action",
+		"name": "Change Action",
+		"severity": "Low",
+		"Estimated Start Date": "2022-03-21",
+		"Estimated Completion Date": "2022-07-22",
+		"xmlApplicability": "",
+		"New attritute 1": "Attribute value 1",
+		"New attritute 2": "Attribute value 2",
+		"New attritute 3": "Attribute value 3"
+	},
+	{
+		"policy": "Change Action",
+		"description": "Description of Change Action toto",
+		"title": "Title of Change Action",
+		"name": "",
+		"severity": "Low",
+		"Estimated Start Date": "2022-03-21",
+		"Estimated Completion Date": "2022-07-22",
+		"xmlApplicability": "",
+		"New attritute 1": "Attribute value 1",
+		"New attritute 2": "Attribute value 2",
+		"New attritute 3": "Attribute value 3"
+	},
+	{
+		"policy": "Change Action",
+		"description": "Description of Change Action toto",
+		"title": "Title of Change Action",
+		"name": "",
+		"severity": "Low",
+		"Estimated Start Date": "2022-03-21",
+		"Estimated Completion Date": "2022-07-22",
+		"xmlApplicability": "",		
+		"New attritute 1": "Attribute value 1",
+		"New attritute 2": "Attribute value 2",
+		"New attritute 3": "Attribute value 3"
+	}
+]

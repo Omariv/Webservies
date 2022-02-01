@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+D:\Health_Analydor\Load\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes

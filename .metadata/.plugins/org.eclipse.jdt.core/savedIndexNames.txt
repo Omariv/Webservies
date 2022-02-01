@@ -1,0 +1,16 @@
+INDEX VERSION 1.131+D:\Health_Analydor\Load\.metadata\.plugins\org.eclipse.jdt.core
+226523527.index
+1576504530.index
+411406632.index
+2008522050.index
+1865797976.index
+3656174574.index
+3138696739.index
+343946610.index
+2964679960.index
+2046413950.index
+3343838587.index
+913356483.index
+3563381740.index
+379875889.index
+522744394.index

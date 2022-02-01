@@ -1,0 +1,21 @@
+[
+	{
+		"data": [
+			{
+				"name": "",
+				"description": "Test description",
+				"attribute[Route Base Purpose]": "Standard",
+				"attribute[Route Completion Action]": "Notify Route Owner",
+				"attribute[Auto Stop On Rejection]": "Immediate",
+				"attribute[Preserve Task Owner]": "False",
+				"attribute[Restrict Members]": "All",
+				"routeTemplate": {
+					"identifier": "9994DE3D5872000061E9667800116434",
+					"type": "Route Template",
+					"source": "https://3dspace.com/3dspace",
+					"relativePath": "/resources/v1/modeler/documents/9994DE3D5872000061E9667800116434"
+				}
+			}
+		]
+	}
+]

@@ -1,0 +1,9 @@
+package com.WebServiceToolBox;
+
+public class genLog {
+
+	public genLog() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

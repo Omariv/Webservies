@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration name="XMLConfigLogs" packages="com.alstom">
+	<Properties>
+		<Property name="LOG_DIR">${sys:catalina.home}/logs</Property>
+	</Properties>
+
+	<Appenders>
+		<RollingFile name="rollingFile"
+			fileName="${LOG_DIR}/PLM4AProxy.log"
+			filePattern="${LOG_DIR}/PLM4A.%i.log.gz"
+			ignoreExceptions="false">
+			<PatternLayout>
+				<Pattern>%d{yyyy-MM-dd HH:mm:ss} %-5p %m%n</Pattern>
+			</PatternLayout>
+			<Policies>
+				<SizeBasedTriggeringPolicy size="10MB" />
+			</Policies>
+			<DefaultRolloverStrategy max="5" />
+		</RollingFile>
+	</Appenders>
+
+	<Loggers>
+
+		<Logger name="com.alstom.plm4aproxy.services.DocumentFile"
+			level="debug" additivity="false">
+			<AppenderRef ref="rollingFile" />
+		</Logger>
+		<Root level="error">
+			<AppenderRef ref="rollingFile" />
+		</Root>
+	</Loggers>
+
+</Configuration>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.WebServiceToolBox.Connection"/>
+    <fullyQualifiedTypeName name="com.WebServiceToolBox.Utils.Response"/>
+    <fullyQualifiedTypeName name="java.nio.file.Paths"/>
+    <fullyQualifiedTypeName name="javax.print.DocFlavor.URL"/>
+    <fullyQualifiedTypeName name="java.net.URL"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+</qualifiedTypeNameHistroy>

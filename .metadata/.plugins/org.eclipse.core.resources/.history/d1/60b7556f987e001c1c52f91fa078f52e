@@ -1,0 +1,69 @@
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+
+import java.text.ParseException;
+
+import org.apache.logging.log4j.Level;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+
+import com.WebServiceToolBox.Connection;
+import com.WebServiceToolBox.Utils.Response;
+import com.WebServiceToolBox.genLog;
+
+public class ChangeActionManager {
+
+	static final Logger logger = LogManager.getLogger(ChangeActionManager.class);
+	static final String type = "Change Action";
+	static final String step = "loading Change Action";
+	Connection con;
+	genLog genlog;
+	String inputFile;
+	String logFile;
+
+	public ChangeActionManager(String user, String securityContext, String inputFile, String logFile) throws Exception {
+		try {
+			this.con = new Connection(user, securityContext);
+			this.inputFile = inputFile;
+			this.logFile = logFile;
+		} catch (Exception e) {
+			logger.catching(e);
+			throw e;
+		}
+	}
+
+	public Response CreateChangeAction() throws FileNotFoundException,
+    IOException, ParseException {		
+		StringBuffer sbNewDocumentURL = new StringBuffer();
+		sbNewDocumentURL.append(con.getUrl3dpaceEnv());
+		sbNewDocumentURL.append(Connection.SERVICE_3DSPACE);
+		sbNewDocumentURL.append(Utils.SPACE_CHANGEACTION);
+		Response response = null;
+		
+		JSONParser parser = new JSONParser();
+		JSONArray jsonArray = new JSONArray();
+		 try {
+			jsonArray =  (JSONArray) parser.parse(new FileReader(inputFile));
+		        for (Object o : jsonArray)
+		        {
+		            JSONObject obj = (JSONObject) o;		            
+		    				response = con.getResultFromWebService(
+		    				sbNewDocumentURL.toString(), 
+		    				"POST", 
+		    				obj.toString());
+							this.genlog = new genLog("VMs", "String step", "String status", type, "String name", "String revision", "String errorCode", "String errorDetail",logFile);
+		    		System.out.println(response);		    		
+		        }
+		        logger.log(Level.DEBUG, response.toString());
+		        
+		 } catch (Exception e) {
+				e.printStackTrace();
+		}
+		 
+		return response;
+	}
+}

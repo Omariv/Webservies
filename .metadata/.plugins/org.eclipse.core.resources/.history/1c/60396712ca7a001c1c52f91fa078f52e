@@ -1,0 +1,23 @@
+
+public class meinMethod {
+
+	public static void main(String[] args) {
+		
+
+	}
+	
+	public void genLog() {
+		 String date;
+         String VMs;
+         String step;
+         String status;
+         String type;
+         String name;
+         String revision;
+         String errorCode;
+         String errorDetail;
+	}
+	
+
+		
+}
